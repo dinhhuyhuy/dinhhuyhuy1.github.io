@@ -1,0 +1,22 @@
+#result-border {
+    width: 189px; 
+    height: 30px;
+    margin: 0px; 
+    border: 1px solid rgb(133, 133, 133);
+    padding: 2px;
+    padding-top: 1px;
+    padding-bottom: 1px;
+}
+
+.text {
+    font-family: 'Times New Roman', Times, serif;   
+    white-space: nowrap;
+}
+
+h1 {
+    text-align: center; 
+    font-family: 'Times New Roman', Times, serif;
+}
+#notif {
+    color: red;
+}
